@@ -1,0 +1,431 @@
+Generated File. Do not edit.
+
+[HEADER]
+Version|0.17|$
+Arch|x86-msvc|$
+
+[PLUGINS]
+nppdf32.dll|$
+C:\Program Files (x86)\Adobe\Reader 11.0\Reader\browser\nppdf32.dll|$
+11.0.8.4|$
+1407259222000|0|0|0|$
+Adobe PDF Plug-In For Firefox and Netscape 11.0.8|$
+Adobe Acrobat|$
+7
+0|application/pdf|Acrobat Portable Document Format|pdf|$
+1|application/vnd.adobe.pdfxml|Adobe PDF in XML Format|pdfxml|$
+2|application/vnd.adobe.x-mars|Adobe PDF in XML Format|mars|$
+3|application/vnd.fdf|Acrobat Forms Data Format|fdf|$
+4|application/vnd.adobe.xfdf|XML Version of Acrobat Forms Data Format|xfdf|$
+5|application/vnd.adobe.xdp+xml| Acrobat XML Data Package|xdp|$
+6|application/vnd.adobe.xfd+xml|Adobe FormFlow99 Data File|xfd|$
+npexview.dll|$
+C:\Program Files (x86)\LizardTech\ExpressView\npexview.dll|$
+6.6.1.3947|$
+1391256898000|0|0|0|$
+Express View Browser Plugin|$
+Express View|$
+6
+0|image/x-mrsid-image|MrSID File|sid,mg2,mg3|$
+1|image/jpeg2000|JPEG 2000 File|jp2,jpx|$
+2|image/x-sidlet-image|MrSID Image Stream|*|$
+3|image/jpip-stream|JPIP Image Stream|*|$
+4|image/jpp-stream|JPIP Image Stream|*|$
+5|image/jpt-stream|JPIP Image Stream|*|$
+npAdobeAAMDetect32.dll|$
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\CCM\Utilities\npAdobeAAMDetect32.dll|$
+1.0.0.0|$
+1438101102000|0|0|0|$
+A plugin to detect whether the Adobe Application Manager is installed on this machine.|$
+AdobeAAMDetect|$
+1
+0|application/x-adobeaamdetect|AdobeAAMDetect||$
+nppdf32.dll|$
+C:\Program Files (x86)\Adobe\Reader 11.0\Reader\AIR\nppdf32.dll|$
+11.0.8.4|$
+1407259226000|0|0|0|$
+Adobe PDF Plug-In For Firefox and Netscape 11.0.8|$
+Adobe Acrobat|$
+7
+0|application/pdf|Acrobat Portable Document Format|pdf|$
+1|application/vnd.adobe.pdfxml|Adobe PDF in XML Format|pdfxml|$
+2|application/vnd.adobe.x-mars|Adobe PDF in XML Format|mars|$
+3|application/vnd.fdf|Acrobat Forms Data Format|fdf|$
+4|application/vnd.adobe.xfdf|XML Version of Acrobat Forms Data Format|xfdf|$
+5|application/vnd.adobe.xdp+xml| Acrobat XML Data Package|xdp|$
+6|application/vnd.adobe.xfd+xml|Adobe FormFlow99 Data File|xfd|$
+nppdf32.dll|$
+C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\Air\nppdf32.dll|$
+15.20.20039.7108|$
+1475278588000|0|0|0|$
+Adobe PDF Plug-In For Firefox and Netscape 15.20.20039|$
+Adobe Acrobat|$
+7
+0|application/pdf|Acrobat Portable Document Format|pdf|$
+1|application/vnd.adobe.pdfxml|Adobe PDF in XML Format|pdfxml|$
+2|application/vnd.adobe.x-mars|Adobe PDF in XML Format|mars|$
+3|application/vnd.fdf|Acrobat Forms Data Format|fdf|$
+4|application/vnd.adobe.xfdf|XML Version of Acrobat Forms Data Format|xfdf|$
+5|application/vnd.adobe.xdp+xml| Acrobat XML Data Package|xdp|$
+6|application/vnd.adobe.xfd+xml|Adobe FormFlow99 Data File|xfd|$
+npmathplugin.dll|$
+C:\Program Files (x86)\Common Files\Wolfram Research\Browser\9.0.1.4092550\npmathplugin.dll|$
+9.0.62.29041|$
+1360223316000|0|0|0|$
+Enables the interaction of Mathematica content with the latest installed version of Mathematica.|$
+Wolfram Mathematica|$
+5
+0|application/vnd.wolfram.cdf|Computable Document Format|cdf|$
+1|application/vnd.wolfram.cdf.text|Computable Document Format|cdf|$
+2|application/vnd.wolfram.mathematica|Wolfram Mathematica Notebook|nb|$
+3|application/vnd.wolfram.player|Wolfram Mathematica Player Notebook|nbp|$
+4|application/mathematica|Wolfram Mathematica Notebook|nb,nbp|$
+npvlc.dll|$
+C:\Program Files (x86)\VideoLAN\VLC\npvlc.dll|$
+2.2.4.0|$
+1464790678000|0|0|0|$
+VLC media player Web Plugin|$
+VLC Web Plugin|$
+139
+0|audio/mp1|MPEG audio||$
+1|audio/mp2|MP2 audio||$
+2|audio/mp3|MPEG audio||$
+3|audio/mpeg|MPEG audio|mp2,mp3,mpga,mpega|$
+4|audio/mpg|MPEG audio||$
+5|audio/x-mp1|MPEG audio||$
+6|audio/x-mp2|MPEG audio||$
+7|audio/x-mp3|MPEG audio||$
+8|audio/x-mpeg|MPEG audio|mp2,mp3,mpga,mpega|$
+9|audio/x-mpg|MPEG audio||$
+10|video/mpeg|MPEG video|mpg,mpeg,mpe|$
+11|video/x-mpeg|MPEG video|mpg,mpeg,mpe|$
+12|video/mp2t|MPEG-2 transport stream||$
+13|video/mpeg-system|MPEG video|mpg,mpeg,mpe,vob|$
+14|video/x-mpeg-system|MPEG video|mpg,mpeg,mpe,vob|$
+15|video/x-mpeg2|MPEG video||$
+16|audio/aac|AAC sound||$
+17|audio/x-aac|AAC sound||$
+18|audio/mp4|MPEG-4 audio|aac,mp4,mpg4|$
+19|audio/x-m4a|MPEG-4 audio|m4a|$
+20|audio/m4a|MPEG-4 audio|m4a|$
+21|video/mp4|MPEG-4 video|mp4,mpg4|$
+22|application/mpeg4-iod|MPEG-4 video|mp4,mpg4|$
+23|application/mpeg4-muxcodetable|MPEG-4 video|mp4,mpg4|$
+24|application/x-extension-m4a|MPEG-4 audio||$
+25|application/x-extension-mp4|MPEG-4 audio||$
+26|video/x-m4v|MPEG-4 video|m4v|$
+27|video/mp4v-es|MPEG-4 video||$
+28|audio/x-pn-windows-acm|AVI video||$
+29|video/divx|DivX video|divx|$
+30|video/msvideo|AVI video|avi|$
+31|video/vnd.divx|DivX video||$
+32|video/x-avi|AVI video||$
+33|video/x-msvideo|AVI video|avi|$
+34|application/ogg|Ogg stream|ogg|$
+35|video/ogg|Ogg video|ogv|$
+36|audio/ogg|Ogg audio|oga,ogg|$
+37|application/x-ogg|Ogg stream|ogg|$
+38|video/x-ogm+ogg|OGM video||$
+39|video/x-theora+ogg|Ogg Theora video||$
+40|video/x-theora|Ogg Theora video||$
+41|audio/x-vorbis+ogg|Ogg Vorbis audio||$
+42|audio/x-vorbis|Ogg Vorbis audio||$
+43|audio/x-speex|Speex audio||$
+44|audio/ogg;codecs=opus|Opus audio|opus|$
+45|audio/opus|Opus audio||$
+46|application/x-vlc-plugin|VLC plug-in||$
+47|audio/x-ms-asf|ASF video||$
+48|audio/x-ms-asx|Microsoft ASX playlist||$
+49|audio/x-ms-wax|Microsoft Media|wax|$
+50|video/x-ms-asf|ASF video|asf,asx|$
+51|video/x-ms-asf-plugin|ASF video||$
+52|video/x-ms-asx|ASF video||$
+53|video/x-ms-asf-plugin|Windows Media Video|asf,asx|$
+54|video/x-ms-asf|Windows Media Video|asf,asx|$
+55|application/x-mplayer2|Windows Media||$
+56|video/x-ms-wm|Windows Media|wm|$
+57|video/x-ms-wmv|Windows Media|wmv|$
+58|video/x-ms-wmx|Windows Media|wmx|$
+59|video/x-ms-wvx|Windows Media Video|wvx|$
+60|audio/x-ms-wma|Windows Media Audio|wma|$
+61|application/x-google-vlc-plugin|Google VLC plug-in||$
+62|audio/wav|WAV audio|wav|$
+63|audio/x-wav|WAV audio|wav|$
+64|audio/x-pn-wav|WAV audio||$
+65|audio/x-pn-au|Audio samples||$
+66|video/3gp|3GPP video||$
+67|audio/3gpp|3GPP audio|3gp,3gpp|$
+68|video/3gpp|3GPP video|3gp,3gpp|$
+69|audio/3gpp2|3GPP2 audio|3g2,3gpp2|$
+70|video/3gpp2|3GPP2 video|3g2,3gpp2|$
+71|video/fli|FLI video|fli|$
+72|video/flv|FLV video|flv|$
+73|video/x-flc|FLV video||$
+74|video/x-fli|FLI video||$
+75|video/x-flv|FLV video|flv|$
+76|application/x-matroska|Matroska video|mkv|$
+77|video/x-matroska|Matroska video|mpv,mkv|$
+78|audio/x-matroska|Matroska audio|mka|$
+79|application/xspf+xml|Playlist xspf|xspf|$
+80|audio/mpegurl|MPEG audio playlist|m3u|$
+81|audio/x-mpegurl|MPEG audio|m3u|$
+82|audio/scpls|MP3 ShoutCast playlist|pls|$
+83|audio/x-scpls|MP3 ShoutCast playlist|pls|$
+84|text/google-video-pointer|Google Video Pointer playlist||$
+85|text/x-google-video-pointer|Google Video Pointer playlist||$
+86|video/vnd.mpegurl|MPEG video|mxu|$
+87|application/vnd.apple.mpegurl|HTTP Live Streaming playlist||$
+88|application/vnd.ms-asf|ASF video||$
+89|application/vnd.ms-wpl|WPL playlist||$
+90|application/sdp|SDP multicast stream file||$
+91|audio/dv|DV audio|dif,dv|$
+92|video/dv|DV video|dif,dv|$
+93|audio/x-aiff|AIFF/Amiga/Mac audio|aif,aiff,aifc|$
+94|audio/x-pn-aiff|AIFF audio||$
+95|video/x-anim|ANIM animation||$
+96|video/webm|WebM video|webm|$
+97|audio/webm|WebM audio|webm|$
+98|application/ram|RealMedia Metafile|ram|$
+99|application/vnd.rn-realmedia-vbr|Real Media File||$
+100|application/vnd.rn-realmedia|Real Media File|rm|$
+101|audio/vnd.rn-realaudio|RealAudio document||$
+102|audio/x-pn-realaudio-plugin|RealAudio plugin file||$
+103|audio/x-pn-realaudio|Real Media Audio|ra,rm,ram|$
+104|audio/x-real-audio|Real Media Audio||$
+105|audio/x-realaudio|Real Media Audio|ra|$
+106|video/vnd.rn-realvideo|Real Media Video||$
+107|audio/amr-wb|AMR-WB audio||$
+108|audio/amr|AMR audio||$
+109|audio/amr-wb|AMR-WB audio|awb|$
+110|audio/amr|AMR audio|amr|$
+111|application/x-flac|FLAC audio|flac|$
+112|audio/x-flac|FLAC audio|flac|$
+113|audio/flac|FLAC audio|flac|$
+114|application/x-flash-video|Flash video||$
+115|application/x-shockwave-flash|Shockwave Flash file|swf,swfl|$
+116|audio/ac3|Dolby Digital audio||$
+117|audio/eac3|E-AC3||$
+118|audio/basic|ULAW|au,snd|$
+119|audio/midi|MIDI audio|mid,midi,kar|$
+120|audio/vnd.dts.hd|DTSHD audio||$
+121|audio/vnd.dolby.heaac.1|Dolby HeAAC||$
+122|audio/vnd.dolby.heaac.2|Dolby HeAAC||$
+123|audio/vnd.dolby.mlp|MLP/TrueHD||$
+124|audio/vnd.dts|DTS audio||$
+125|audio/x-ape|Monkey's audio||$
+126|audio/x-gsm|GSM 06.10 audio|gsm|$
+127|audio/x-musepack|Musepack audio||$
+128|audio/x-shorten|Shorten audio||$
+129|audio/x-tta|TrueAudio audio||$
+130|audio/x-wavpack|WavPack audio||$
+131|audio/x-it|Impulse Tracker audio||$
+132|audio/x-mod|Amiga SoundTracker audio||$
+133|audio/x-s3m|Scream Tracker 3 audio||$
+134|audio/x-xm|FastTracker II audio||$
+135|application/mxf|MXF video|mxf|$
+136|image/vnd.rn-realpix|RealPix document||$
+137|misc/ultravox|SHOUTcast 2||$
+138|video/x-nsv|NullSoft video||$
+npUnity3D32.dll|$
+C:\Program Files (x86)\Unity\WebPlayer\loader\npUnity3D32.dll|$
+5.3.1.40123|$
+1450362866000|0|0|0|$
+Unity Player 5.3.1f1|$
+Unity Player|$
+1
+0|application/vnd.unity|Unity Player datafile|unity3d|$
+npGoogleUpdate3.dll|$
+C:\Program Files (x86)\Google\Update\1.3.33.5\npGoogleUpdate3.dll|$
+1.3.33.5|$
+1493326344690|0|0|0|$
+Google Update|$
+Google Update|$
+2
+0|application/x-vnd.google.update3webcontrol.3|||$
+1|application/x-vnd.google.oneclickctrl.9|||$
+NPSPWRAP.DLL|$
+C:\PROGRA~2\MICROS~2\Office15\NPSPWRAP.DLL|$
+15.0.4514.1000|$
+1390445772000|0|0|0|$
+The plugin allows you to have a better experience with Microsoft SharePoint|$
+Microsoft Office 2013|$
+2
+0|application/x-sharepoint|SharePoint Plug-in for Firefox||$
+1|application/x-sharepoint-uc|||$
+npctrl.dll|$
+c:\Program Files (x86)\Microsoft Silverlight\5.1.50709.0\npctrl.dll|$
+5.1.50709.0|$
+1468209928000|0|0|0|$
+5.1.50709.0|$
+Silverlight Plug-In|$
+2
+0|application/x-silverlight|npctrl|scr|$
+1|application/x-silverlight-2|||$
+npdjvu.dll|$
+C:\Program Files (x86)\Mozilla Firefox\plugins\npdjvu.dll|$
+6.1.4.2013|$
+1248998808000|0|0|0|$
+DjVu Plug-In(external version 6.1.4.2013)|$
+LizardTech DjVu|$
+6
+0|image/vnd.djvu|DJVU file|djvu,djv|$
+1|image/x.djvu|DJVU file|djvu,djv|$
+2|image/x-djvu|DJVU file|djvu,djv|$
+3|image/x-iw44|IW44 file|iw44,iw4|$
+4|image/x-dejavu|DJVU file|djvu,djv|$
+5|image/djvu|DJVU file|djvu,djv|$
+npexview.dll|$
+C:\Program Files (x86)\Mozilla Firefox\plugins\npexview.dll|$
+6.6.1.3947|$
+1391256898000|0|0|0|$
+Express View Browser Plugin|$
+Express View|$
+6
+0|image/x-mrsid-image|MrSID File|sid,mg2,mg3|$
+1|image/jpeg2000|JPEG 2000 File|jp2,jpx|$
+2|image/x-sidlet-image|MrSID Image Stream|*|$
+3|image/jpip-stream|JPIP Image Stream|*|$
+4|image/jpp-stream|JPIP Image Stream|*|$
+5|image/jpt-stream|JPIP Image Stream|*|$
+npMeetingJoinPluginOC.dll|$
+C:\Program Files (x86)\Mozilla Firefox\plugins\npMeetingJoinPluginOC.dll|$
+15.0.4545.1000|$
+1393764538000|0|0|0|$
+The plugin allows you to have a better experience with Microsoft Lync|$
+Microsoft Office 2013|$
+1
+0|application/vnd.microsoft.communicator.ocsmeeting|Lync Plug-in for Firefox||$
+nppdf32.dll|$
+C:\Program Files (x86)\Mozilla Firefox\plugins\nppdf32.dll|$
+11.0.8.4|$
+1407259222000|0|0|0|$
+Adobe PDF Plug-In For Firefox and Netscape 11.0.8|$
+Adobe Acrobat|$
+7
+0|application/pdf|Acrobat Portable Document Format|pdf|$
+1|application/vnd.adobe.pdfxml|Adobe PDF in XML Format|pdfxml|$
+2|application/vnd.adobe.x-mars|Adobe PDF in XML Format|mars|$
+3|application/vnd.fdf|Acrobat Forms Data Format|fdf|$
+4|application/vnd.adobe.xfdf|XML Version of Acrobat Forms Data Format|xfdf|$
+5|application/vnd.adobe.xdp+xml| Acrobat XML Data Package|xdp|$
+6|application/vnd.adobe.xfd+xml|Adobe FormFlow99 Data File|xfd|$
+npjp2.dll|$
+C:\Program Files (x86)\Java\jre1.8.0_121\bin\plugin2\npjp2.dll|$
+11.121.2.13|$
+1489010169347|0|0|0|$
+Next Generation Java Plug-in 11.121.2 for Mozilla browsers|$
+Java(TM) Platform SE 8 U121|$
+40
+0|application/x-java-applet|Java Applet||$
+1|application/x-java-bean|JavaBeans||$
+2|application/x-java-vm|||$
+3|application/x-java-applet;version=1.1.1|||$
+4|application/x-java-bean;version=1.1.1|||$
+5|application/x-java-applet;version=1.1|||$
+6|application/x-java-bean;version=1.1|||$
+7|application/x-java-applet;version=1.2|||$
+8|application/x-java-bean;version=1.2|||$
+9|application/x-java-applet;version=1.1.3|||$
+10|application/x-java-bean;version=1.1.3|||$
+11|application/x-java-applet;version=1.1.2|||$
+12|application/x-java-bean;version=1.1.2|||$
+13|application/x-java-applet;version=1.3|||$
+14|application/x-java-bean;version=1.3|||$
+15|application/x-java-applet;version=1.2.2|||$
+16|application/x-java-bean;version=1.2.2|||$
+17|application/x-java-applet;version=1.2.1|||$
+18|application/x-java-bean;version=1.2.1|||$
+19|application/x-java-applet;version=1.3.1|||$
+20|application/x-java-bean;version=1.3.1|||$
+21|application/x-java-applet;version=1.4|||$
+22|application/x-java-bean;version=1.4|||$
+23|application/x-java-applet;version=1.4.1|||$
+24|application/x-java-bean;version=1.4.1|||$
+25|application/x-java-applet;version=1.4.2|||$
+26|application/x-java-bean;version=1.4.2|||$
+27|application/x-java-applet;version=1.5|||$
+28|application/x-java-bean;version=1.5|||$
+29|application/x-java-applet;version=1.6|||$
+30|application/x-java-bean;version=1.6|||$
+31|application/x-java-applet;version=1.7|||$
+32|application/x-java-bean;version=1.7|||$
+33|application/x-java-applet;version=1.8|||$
+34|application/x-java-bean;version=1.8|||$
+35|application/x-java-applet;jpi-version=1.8.0_121|||$
+36|application/x-java-bean;jpi-version=1.8.0_121|||$
+37|application/x-java-vm-npruntime|||$
+38|application/x-java-applet;deploy=11.121.2|||$
+39|application/x-java-applet;javafx=8.0.121|||$
+npdeployJava1.dll|$
+C:\Program Files (x86)\Java\jre1.8.0_121\bin\dtplugin\npdeployJava1.dll|$
+11.121.2.13|$
+1489010169184|0|0|0|$
+NPRuntime Script Plug-in Library for Java(TM) Deploy|$
+Java Deployment Toolkit 8.0.1210.13|$
+1
+0|application/java-deployment-toolkit|||$
+npgeplugin.dll|$
+C:\Program Files (x86)\Google\Google Earth\plugin\npgeplugin.dll|$
+7.1.5.1557|$
+1432120268000|0|0|0|$
+GEPlugin|$
+Google Earth Plugin|$
+1
+0|application/geplugin|GEPlugin||$
+npdjvu.dll|$
+C:\Program Files (x86)\Cuminas\Document Express DjVu Plug-in\npdjvu.dll|$
+6.10001.35467.1|$
+1431053274000|0|0|0|$
+DjVu browser plugin|$
+DjVu Plugin Viewer|$
+6
+0|image/vnd.djvu|DJVU file|djvu,djv|$
+1|image/x.djvu|DJVU file|djvu,djv|$
+2|image/x-djvu|DJVU file|djvu,djv|$
+3|image/x-iw44|IW44 file|iw44,iw4|$
+4|image/x-dejavu|DJVU file|djvu,djv|$
+5|image/djvu|DJVU file|djvu,djv|$
+NPCDP32.DLL|$
+C:\Program Files (x86)\CambridgeSoft\ChemOffice2015\ChemDraw\NPCDP32.DLL|$
+15.0.0.106|$
+1426265798000|0|0|0|$
+ChemDraw Plugin 15.0.0.106|$
+ChemDraw|$
+5
+0|chemical/x-cdx|ChemDraw|cdx|$
+1|chemical/x-cdxml|ChemDraw|cdxml|$
+2|chemical/x-chemdraw|JCAMP-DX Spectrum|chm|$
+3|chemical/x-jcamp-dx|Galactic SPC Spectrum|jdx|$
+4|chemical/x-spectra||spc|$
+npChem3DPlugin.dll|$
+C:\Program Files (x86)\CambridgeSoft\ChemOffice2015\Chem3D\npChem3DPlugin.dll|$
+15.0.0.106|$
+1426265786000|0|0|0|$
+Chem3D Plugin 15.0.0.106|$
+Chem3D Plugin|$
+2
+0|chemical/x-c3xml|||$
+1|chemical/x-chem3d|||$
+np32dsw.dll|$
+C:\Windows\SysWOW64\Adobe\Director\np32dsw.dll|$
+12.2.3.183|$
+1450683168000|0|0|0|$
+Adobe Shockwave for Director Netscape plug-in, version 12.2.3.183|$
+Shockwave for Director|$
+1
+0|application/x-director|Shockwave Movie|dir,dxr,dcr|$
+NPSWF32_23_0_0_205.dll|$
+C:\Windows\SysWOW64\Macromed\Flash\NPSWF32_23_0_0_205.dll|$
+23.0.0.205|$
+1478565509313|0|0|0|$
+Shockwave Flash 23.0 r0|$
+Shockwave Flash|$
+2
+0|application/x-shockwave-flash|Adobe Flash movie|swf|$
+1|application/futuresplash|FutureSplash movie|spl|$
+
+[INVALID]
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\CCM\Utilities\npAdobeAAMDetect64.dll|$
+1438101102000|$
+c:\Program Files (x86)\Microsoft Silverlight\5.1.50709.0\npctrlui.dll|$
+1468209928000|$
