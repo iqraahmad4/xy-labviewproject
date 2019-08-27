@@ -23,6 +23,7 @@
 		<Item Name="task 2a.vi" Type="VI" URL="../task 2a.vi"/>
 		<Item Name="task 3 - backup.vi" Type="VI" URL="../task 3 - backup.vi"/>
 		<Item Name="task 3.vi" Type="VI" URL="../task 3.vi"/>
+		<Item Name="testing.vi" Type="VI" URL="../testing.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
